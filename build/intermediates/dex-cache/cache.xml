@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_3e0180b2e6330171de279627dc9c03faeb1e0d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_8782e88be2c9bd3d6153b5579b9979988d8fde7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\AndroidCoreLib-master\corelib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7feefc71b15aa05f0b7d70ac132af44e9a9c2064">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\AndroidCoreLib-master-corelib-unspecified_8c14c14cd13e225b7e8f379b1dbb3f27b9828512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.orhanobut-logger-1.15_ed36566ac35765e128bc8971c5748e0ed2a178f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_39d24b88bd4901b6e896c0287af9cbca5b829d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_359c2f45ca314a4a2359c84ac3f9ed3f16f4eb48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_7b7857c84e4e08e3508e3c080686855cc96ddba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_6ea7696276d064141653e6748750e9a53fa445ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_d8a309ef968aefec153f717b7065d87b2e5d25d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_e88c680678944e674877e690480a72def1ef3efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_72b5a7d4463da5f11eafc80eaafcea638ed6a349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Development\AndroidStudio\studio_sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\Okhttp_utils\AndroidCoreLib-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_af0963f3adca1e05b780471391813c853b52a011.jar" />
+    </item>
+
+</items>
